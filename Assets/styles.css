@@ -75,7 +75,7 @@ body{
 .hexagon-image {
     width: 160px; /* Adjust to fit inside hexagon */
     height: 160px; /* Adjust to fit inside hexagon */
-    background-image: url('./Assets/man.jpg'); /* Replace with your image URL */
+    background-image: url('Assets/man.jpg'); /* Replace with your image URL */
     background-size: cover;
     clip-path: inherit;
     position: absolute;
